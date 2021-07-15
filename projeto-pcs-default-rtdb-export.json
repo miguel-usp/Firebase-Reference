@@ -1,0 +1,60 @@
+{
+  "Acesso" : {
+    "124214" : {
+      "data" : "04/07/2021",
+      "horario" : "11:30",
+      "id_porta" : "-MeQrNX2GtOSYDBfz-cO",
+      "id_usuario" : "migsVel",
+      "tempo_permitido" : "42 horas"
+    }
+  },
+  "Histórico" : {
+    "dsaas" : {
+      "data" : "04/07/2021",
+      "horario" : "11:30",
+      "id_porta" : "-MeQrNX2GtOSYDBfz-cO",
+      "id_usuario" : "migsVel"
+    }
+  },
+  "Usuario" : {
+    "VT_Santos" : {
+      "email" : "vt@usp.br",
+      "senha" : "123XA",
+      "telefone" : "(11)922223333"
+    },
+    "giHosta" : {
+      "email" : "gi@usp.br",
+      "senha" : 1234,
+      "telefone" : "(11)933334444"
+    },
+    "migsVel" : {
+      "email" : "migs@usp.br",
+      "senha" : "321AX",
+      "telefone" : "(11)944445555"
+    }
+  },
+  "casa" : {
+    "casa1" : {
+      "id_usuario" : "VT_Santos"
+    }
+  },
+  "contato" : {
+    "12525" : {
+      "id_usuario1" : "VT_Santos",
+      "id_usuario2" : "migsVel"
+    },
+    "15543" : {
+      "id_usuario1" : "migsVel",
+      "id_usuario2" : "giHosta"
+    }
+  },
+  "portas" : {
+    "-MefAucAJHPw7IHZ4ga8" : {
+      "createdat" : 1626369664436,
+      "id_casa:" : "casa1",
+      "senha" : 4426,
+      "timer" : 30,
+      "tipo" : "porta da frente"
+    }
+  }
+}
