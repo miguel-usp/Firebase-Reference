@@ -6,7 +6,7 @@ Arquivos JSON dedicados a indicar a funcionaliade do servidor no Firebase que in
 
 As seguintes ferramentas foram usadas na construção dessa seção do projeto:
 
--   [Firebase](https://firebase.google.com/?hl=pt
+-   [Firebase](https://firebase.google.com/?hl=pt)
 
 # Participantes
 
